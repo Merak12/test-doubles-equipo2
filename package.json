@@ -9,7 +9,16 @@
   "scripts": {
     "test": "jest"
   },
-  "devDependencies": {
+  "devDependencies": 
+    "jest": "^29.7.0",
+    "supertest": "^7.1.1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+
     "@babel/preset-env": "^7.27.2",
     "@babel/preset-react": "^7.27.1",
     "@testing-library/jest-dom": "^6.6.3",
