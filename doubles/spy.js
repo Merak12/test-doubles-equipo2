@@ -1,5 +1,5 @@
 function sendEmail(subject, templatePath, to, name) {
-    console.log('Correo enviado a: ${to} con asunto: ${subject} para ${name}');
+    console.log(`Correo enviado a: ${to} con asunto: ${subject} para ${name}`);
 }
 
 function registerAlumno(alumno, sendEmailFunc = sendEmail) {
