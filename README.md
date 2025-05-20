@@ -23,3 +23,5 @@ Ana Mock mock/mock.test.js
 Dylan fake fake/fake.test.js ✅
 Alex Stub	stub/stub.test.js	✅
 Valente	dummy	dummy/dummy.test.js	✅
+
+git add <fotoPrueba.png>
