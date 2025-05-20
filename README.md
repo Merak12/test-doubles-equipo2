@@ -24,4 +24,4 @@ Dylan fake fake/fake.test.js ✅
 Alex Stub	stub/stub.test.js	✅
 Valente	dummy	dummy/dummy.test.js	✅
 
-git add <fotoPruebas.png>
+![Evidencia de pruebas](./fotoPruebas.png)
